@@ -67,10 +67,11 @@ hr {
     }
 .logo-space{
     float:left;
+    width:350px;
     }
 .logo{
     margin:5px 0px 0px 5px;
-    height: 40px;
+    height: 60px;
     float:left;
     }
 .phone-mail-space{
@@ -174,11 +175,11 @@ hr {
     }
 .logo-space{
     float:left;
-    width:285px; 
+    width:350px; 
     }
 .logo{
     margin:5px 0px 0px 11px;
-    max-height: 46px;
+    max-height: 60px;
     float:left;
     }
 .phone-mail-space{
@@ -279,11 +280,11 @@ hr {
     }
 .logo-space{
     float:left;
-    width:50%; 
+    width:350px; 
     }
 .logo{
     margin:5px 0px 0px 20px;
-    height: 46px;
+    height: 60px;
     float:left;
     }
 .phone-mail-space{
@@ -328,7 +329,7 @@ hr {
 
 @media (min-width:768px) and (max-width:1199px){
 body {
-    padding-top: 105px;
+    padding-top: 130px;
     }
 .nav-left{
     margin-left: 12px;
@@ -386,7 +387,7 @@ hr {
     }
 .logo{
     margin:5px 30px 0px 20px;
-    height: 60px;
+    height: 80px;
     float:left;
     }
 .phone-mail-space{
@@ -427,7 +428,7 @@ hr {
 
 @media (min-width:1200px){
 body {
-    padding-top: 105px;
+    padding-top: 130px;
     }
 .nav-left{
     margin-left: 5px;
@@ -485,7 +486,7 @@ hr {
     }
 .logo{
     margin:5px 30px 0px 12px;
-    height: 60px;
+    height: 80px;
     float:left;
     }
 .phone-mail-space{
@@ -670,7 +671,7 @@ a .a1:focus {
 }
 
 html {
-	font-family: "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", Arial, sans-serif;
+	font-family: "Noto Sans CJK TC", "Noto Serif TC", "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", Arial, sans-serif;
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;
     max-width: 100%;
@@ -753,7 +754,7 @@ pre {
 	overflow: auto
 }
 code, kbd, pre, samp {
-	font-family: "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", Arial, sans-serif;
+	font-family: "Noto Sans CJK TC", "Noto Serif TC", "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", Arial, sans-serif;
 	font-size: 1em
 }
 button, input, optgroup, select, textarea {
@@ -1700,14 +1701,14 @@ html {
 	-webkit-tap-highlight-color: rgba(0, 0, 0, 0)
 }
 body {
-	font-family: "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", "標楷體", DFKai-SB, Arial, sans-serif;
+	font-family: "Noto Sans CJK TC", "Noto Serif TC", "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", "標楷體", DFKai-SB, Arial, sans-serif;
 	font-size: 15px;
 	line-height: 1.42857143;
 	color: #333;
 	background-color: #f6f6f6
 }
 button, input, select, textarea {
-	font-family: "Noto Serif CJK TC", "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", Arial, sans-serif;
+	font-family: "Noto Sans CJK TC", "Noto Serif TC", "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", Arial, sans-serif;
 	font-size: inherit;
 	line-height: inherit
 }
@@ -1791,7 +1792,7 @@ hr.style3 {
 	cursor: pointer
 }
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-	font-family: "Noto Serif CJK TC", "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", Arial, sans-serif;
+	font-family: "Noto Sans CJK TC", "Noto Serif TC", "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", Arial, sans-serif;
 	font-weight: 500;
 	line-height: 1.1;
 	color: inherit
@@ -2041,7 +2042,7 @@ address {
 	line-height: 1.42857143
 }
 code, kbd, pre, samp {
-	font-family: "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", Arial, sans-serif;
+	font-family: "Noto Sans CJK TC", "Noto Serif TC", "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", Arial, sans-serif;
 }
 code {
 	padding: 2px 4px;
@@ -4282,7 +4283,7 @@ select[multiple].input-group-sm>.form-control, select[multiple].input-group-sm>.
 }
 @media (max-device-width:480px) and (orientation:landscape) {
 	.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
-		max-height: 200px
+		max-height: 240px
 	}
 }
 .container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
@@ -5781,7 +5782,7 @@ button.close {
 	position: absolute;
 	z-index: 1070;
 	display: block;
-	font-family: "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", Arial, sans-serif;
+	font-family: "Noto Sans CJK TC", "Noto Serif TC", "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", Arial, sans-serif;
 	font-size: 12px;
 	font-style: normal;
 	font-weight: 400;
@@ -5899,7 +5900,7 @@ button.close {
 	display: none;
 	max-width: 276px;
 	padding: 1px;
-	font-family: "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", Arial, sans-serif;
+	font-family: "Noto Sans CJK TC", "Noto Serif TC", "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", Arial, sans-serif;
 	font-size: 14px;
 	font-style: normal;
 	font-weight: 400;
@@ -6148,7 +6149,7 @@ button.close {
 .carousel-control .icon-next, .carousel-control .icon-prev {
 	width: 20px;
 	height: 20px;
-	font-family: "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", Arial, sans-serif;
+	font-family: "Noto Sans CJK TC", "Noto Serif TC", "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", Arial, sans-serif;
 	line-height: 1
 }
 .carousel-control .icon-prev:before {
