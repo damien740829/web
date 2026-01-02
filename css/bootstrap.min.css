@@ -181,6 +181,8 @@ hr {
     margin:5px 0px 0px 11px;
     max-height: 57px;
     float:left;
+    position: relative;
+    z-index: 1;
     }
 .phone-mail-space{
     padding:6px 0px 0px 15px;
@@ -226,6 +228,8 @@ hr {
 .lang{
     float:left;
     margin:0px 0px 0px 5px;
+    position: absolute;
+    z-index: 2000;
 }
 }
 
