@@ -175,20 +175,20 @@ hr {
     }
 .logo-space{
     float:left;
-    width:280px; 
+    width:330px; 
     }
 .logo{
     margin:5px 0px 0px 11px;
-    max-height: 55px;
+    max-height: 57px;
     float:left;
     }
 .phone-mail-space{
-    padding:5px 0px 0px 15px;
+    padding:6px 0px 0px 15px;
     float:left;
     font-size: 13px;
     }
 .address-space{
-    padding:5px 0px 5px 15px;
+    padding:6px 0px 0px 15px;
     float:left;
     font-size: 13px;
     }
@@ -225,7 +225,7 @@ hr {
 }
 .lang{
     float:left;
-    margin:20px 0px 0px 0px
+    margin:0px 0px 0px 5px;
 }
 }
 
@@ -284,7 +284,7 @@ hr {
     }
 .logo{
     margin:5px 0px 0px 15px;
-    height: 65px;
+    height: 62px;
     float:left;
     }
 .phone-mail-space{
