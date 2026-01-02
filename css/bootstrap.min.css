@@ -225,7 +225,7 @@ hr {
 }
 .lang{
     float:left;
-    margin:12px 0px 0px 5px
+    margin:0px 0px 0px 5px
 }
 }
 
@@ -283,17 +283,17 @@ hr {
     width:350px; 
     }
 .logo{
-    margin:5px 0px 0px 20px;
-    height: 60px;
+    margin:5px 0px 0px 15px;
+    height: 65px;
     float:left;
     }
 .phone-mail-space{
-    padding:8px 0px 0px 0px;
+    padding:5px 0px 0px 10px;
     float:left;
     font-size: 12px;
     }
 .address-space{
-    padding:6px 0px 5px 0px;
+    padding:5px 0px 5px 10px;
     float:left;
     font-size: 12px;
     }
@@ -391,11 +391,11 @@ hr {
     float:left;
     }
 .phone-mail-space{
-    padding:10px 0px 0px 0px;
+    padding:5px 0px 0px 80px;
     float:left;
     }
 .address-space{
-    padding:10px 20px 0px 0px;
+    padding:5px 20px 0px 80px;
     float:left;
     }
 .en-phone-mail-space{
@@ -485,16 +485,16 @@ hr {
     width:50%;    
     }
 .logo{
-    margin:5px 30px 0px 12px;
+    margin:5px 60px 0px 12px;
     height: 80px;
     float:left;
     }
 .phone-mail-space{
-    padding:10px 0px 0px 0px;
+    padding:5px 0px 0px 90px;
     float:left;
     }
 .address-space{
-    padding:10px 20px 0px 0px;
+    padding:5px 00px 0px 90px;
     float:left;
     }
 .en-phone-mail-space{
